@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <style>
+            .viner-hand {
+                font-family: "Viner Hand ITC", cursive; 
+            }
+        </style>
+    </head>
+    <body>
+        <h2>Hello<br>
+        I'm Muhammad Alif Nur Darwanza</h2>
+        <p>
+            Jl Hasanudin Junrejo <br>
+            Kota Batu 65321 <br>
+            (+62)858-0604-0891 <br>
+            221131010@mhs.stiki.ac.id <br>
+        </p>
+        <h2>Skills</h2>
+        <ol>
+            <li>Backend Programing</li>
+            <li>Database Management</li>
+            <li>PHP and CSS</li>
+            <li>Java</li>
+            <li>Python</li>
+        </ol>
+        <h2>Experience</h2>
+        <p>September 2022 - Present <br>
+        <strong>Tokopedia Location</strong> - <span class="viner-hand">Job Title</span></p>
+        <ul>
+            <li>Backend Programmer</li>
+            <li>Maintance</li>
+            <li>System Analyst</li>
+        </ul>
+        <p>January 2021 - September 2022 <br>
+        <strong>Traveloka Location</strong> - <span class="viner-hand">Job Title</span></p>
+        <ul>
+            <li>Backend Programmer</li>
+            <li>Database Manager</li>
+            <li>System Analyst</li>
+        </ul>
+        <h2>Education</h2>
+        <p>MONTH 20XX - MONTH 20XX <br>
+        <strong>College Name, Location </strong> - <span class="viner-hand">Degree</span></p>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+            ut labore et dolore magna aliqua. Ut enim ad minim veniam
+        </p>
+        <h2>Awards</h2>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+    
+        </p>
+    </body>
+</html>
