@@ -1,0 +1,66 @@
+<html>
+<head>
+  
+</head>
+<body>
+<table border="1">
+    <tr>
+        <td colspan="2"><img src="Omen15.jpeg" height="128" width="160"></td>
+        <td><h1><a href="https://www.omen.com/id/en/laptops/2021-omen-16-intel.html#anchor=spec-anchor">HP Omen 15 </h1></a></td>
+    </tr>
+    <tr>
+        <td style="text-align: center;">Sistem Operasi</td>
+        <td>Product</td>
+        <td>Windows 10 Home</td>
+    </tr>
+    <tr>
+        <td rowspan="3" style="text-align: center;">Display</td>
+        <td>Type</td>
+        <td>QHD, 165 Hz, 3 ms, IPS, micro-edge, anti-silau, 300 nit, 100% sRGB4</td>
+    </tr>
+    <tr>
+        <td>Size</td>
+        <td>16,1"</td>
+    </tr>
+    <tr>
+        <td>Resolution</td>
+        <td>Full HD 1920 x 1080</td>
+    </tr>
+    <tr>
+        <td rowspan="3" style="text-align: center;">Processor</td>
+        <td>Type</td>
+        <td>Intel® Core™ i9-12900H</td>
+    </tr>
+    <tr>
+        <td>Cache</td>
+        <td>24 MB</td>
+    </tr>
+    <tr>
+        <td>Core</td>
+        <td>14</td>
+    </tr>
+    <tr>
+        <td rowspan="3" style="text-align: center;">Memory</td>
+        <td>Type Drive</td>
+        <td>ISSD 1 TB PCIe® Gen4 NVMe™ TLC M.22</td>
+    </tr>
+    <tr>
+        <td>RAM</td>
+        <td>32 GB DDR5-4800 MHz</td>
+    </tr>
+    <tr>
+        <td>Slot</td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td rowspan="2" style="text-align: center;">Konektivitas Nirkabel</td>
+        <td>Wifi</td>
+        <td>Kombo Intel® Wi-Fi 6E AX210 (2x2) </td>
+    </tr>
+    <tr>
+        <td>Bluetooth</td>
+        <td>Bluetooth® 5.2 (Mendukung kecepatan data Gigabit)5, 6</td>
+    </tr>
+</table>
+</body>
+</html>
